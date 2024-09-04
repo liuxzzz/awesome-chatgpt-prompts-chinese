@@ -1,0 +1,1 @@
+<p align="center"><h1>🧠 Awesome ChatGPT Prompts Chinese</h1></p>
